@@ -5,6 +5,8 @@ This is the source code for [PersLLM: A Personified Training Approach for Large 
 You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provide more personified agents and more functions in the future.
 
 ## Overview
+![image](https://github.com/Ellenzzn/PersLLM/blob/main/figs/personified-main.png)
+We propose a framework for LLM personified training, emphasizing the social practice, consistency, and dynamic development of the personality. We conduct experiments on the Harry Potter personified dataset. The multi-agent conversation and the human-agent interaction experiments also prove the effectiveness of personified training.
 
 ## Requirement
 
@@ -15,6 +17,7 @@ The model is implemented using PyTorch. The versions of main packages used are s
 - transformers==4.30.2
 - model-center==1.0.2
 - bmtrain==1.0.0
+  
 To set up the dependencies, you can run the following command:
 ```
 pip install -r requirements.txt
