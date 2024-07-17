@@ -1,3 +1,13 @@
+'''
+We refer to the code of UltraChat project:
+@article{ding2023enhancing,
+  title={Enhancing Chat Language Models by Scaling High-quality Instructional Conversations},
+  author={Ding, Ning and Chen, Yulin and Xu, Bokai and Qin, Yujia and Zheng, Zhi and Hu, Shengding and Liu, Zhiyuan and Sun, Maosong and Zhou, Bowen},
+  journal={arXiv preprint arXiv:2305.14233},
+  year={2023}
+}
+'''
+
 import os
 import json
 from typing import *
