@@ -4,6 +4,10 @@ This is the source code for [PersLLM: A Personified Training Approach for Large 
 
 You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provide more personified agents and more functions in the future.
 
+## Overview
+
+## Environment
+
 ## Data Annotation
 
 - You can directly download the annotated data for HP dataset from [Google Drive](https://drive.google.com/drive/folders/1DEliZQD_XU-Ev5eNDU_VgHjxNphqjzJE?usp=sharing). 
@@ -37,3 +41,15 @@ You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provi
 - First go to `data/` to pre-process your annotated data. Define the input and output file path, the tokenizer, and the max length before you run `bash process.sh`.
 
 - Go to `src` to conduct the training process. Define the related hyper-parameters and file paths before you run `bash train.sh`.
+
+## Citation
+
+Please cite our work if you like it.
+```
+@article{zeng2024persllm,
+  title   = {PersLLM: A Personified Training Approach for Large Language Models},
+  author  = {Zheni, Zeng and Jiayi, Chen and Huimin, Chen and Yukun, Yan and Yuxuan, Chen and Zhiyuan, Liu and Maosong, Sun},
+  year    = {2024},
+  journal = {arXiv preprint arXiv: 2407.00746}
+}
+```
