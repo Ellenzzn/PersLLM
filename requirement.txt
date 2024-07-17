@@ -1,0 +1,5 @@
+numpy==1.21.5
+torch==1.13.1
+transformers==4.30.2
+model-center==1.0.2
+bmtrain==1.0.0
