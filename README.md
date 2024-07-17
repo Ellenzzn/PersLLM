@@ -6,7 +6,19 @@ You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provi
 
 ## Overview
 
-## Environment
+## Requirement
+
+The model is implemented using PyTorch. The versions of main packages used are shown below.
+
+- numpy==1.21.5
+- torch==1.13.1
+- transformers==4.30.2
+- model-center==1.0.2
+- bmtrain==1.0.0
+To set up the dependencies, you can run the following command:
+```
+pip install -r requirements.txt
+```
 
 ## Data Annotation
 
