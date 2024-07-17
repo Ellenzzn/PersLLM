@@ -6,6 +6,7 @@ You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provi
 
 ## Overview
 ![image](https://github.com/Ellenzzn/PersLLM/blob/main/figs/personified-main.png)
+
 We propose a framework for LLM personified training, emphasizing the social practice, consistency, and dynamic development of the personality. We conduct experiments on the Harry Potter personified dataset. The multi-agent conversation and the human-agent interaction experiments also prove the effectiveness of personified training.
 
 ## Requirement
