@@ -1,6 +1,6 @@
 # PersLLM: LLM Personified Training 
 
-This is the source code for [PersLLM: A Personified Training Approach for Large Language Models](arxiv TODO). Currently, the code comments are not perfect, and we will continue to supplement them.
+This is the source code for [PersLLM: A Personified Training Approach for Large Language Models](https://arxiv.org/abs/2407.12393). Currently, the code comments are not perfect, and we will continue to supplement them.
 
 You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provide more personified agents and more functions in the future.
 
@@ -66,6 +66,6 @@ Please cite our work if you like it.
   title   = {PersLLM: A Personified Training Approach for Large Language Models},
   author  = {Zheni, Zeng and Jiayi, Chen and Huimin, Chen and Yukun, Yan and Yuxuan, Chen and Zhiyuan, Liu and Maosong, Sun},
   year    = {2024},
-  journal = {arXiv preprint arXiv: 2407.00746}
+  journal = {arXiv preprint arXiv: 2407.12393}
 }
 ```
