@@ -1,6 +1,6 @@
 # PersLLM: LLM Personified Training 
 
-This is the source code for [PersLLM: A Personified Training Approach for Large Language Models](https://arxiv.org/abs/2407.12393). Currently, the code comments are not perfect, and we will continue to supplement them.
+This is the source code for "PersLLM: A Personified Training Approach for Large Language Models". Currently, the code comments are not perfect, and we will continue to supplement them.
 
 You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provide more personified agents and more functions in the future.
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Data Annotation
 
-- You can directly download the annotated data for HP dataset from [Google Drive](https://drive.google.com/drive/folders/1DEliZQD_XU-Ev5eNDU_VgHjxNphqjzJE?usp=sharing). 
+- The annotated data for HP dataset will be provided. 
 
 - If you want to conduct your own personified data, please first prepare two txt files separately containing the knowledge contents and the speech records for the target personality, with one paragraph in each line. 
 
