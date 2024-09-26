@@ -2,7 +2,7 @@
 
 This is the source code for "PersLLM: A Personified Training Approach for Large Language Models". Currently, the code comments are not perfect, and we will continue to supplement them.
 
-You can try our [online demo](http://label.shuzibeijing.cn:5173/). We will provide more personified agents and more functions in the future.
+Online demo will be released after published. We will provide more personified agents and more functions in the future.
 
 ## Overview
 ![image](https://github.com/Ellenzzn/PersLLM/blob/main/figs/personified-main.png)
