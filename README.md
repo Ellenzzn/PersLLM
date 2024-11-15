@@ -26,8 +26,6 @@ pip install -r requirements.txt
 
 ## Data Annotation
 
-- You can directly download the annotated data for HP dataset from [Google Drive](https://drive.google.com/drive/folders/1DEliZQD_XU-Ev5eNDU_VgHjxNphqjzJE?usp=sharing). 
-
 - If you want to conduct your own personified data, please first prepare two txt files separately containing the knowledge contents and the speech records for the target personality, with one paragraph in each line. 
 
 - Go to `data_annotation/` and run `run.py`. Then follow the instructions step by step to conduct personified conversational tuning data. For example:
